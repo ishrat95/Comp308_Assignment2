@@ -1,3 +1,6 @@
+// Student Name: Ishratben Vahora
+// StudentID: 300986257
+// Date: 2019-03-30
 // Modules
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';

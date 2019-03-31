@@ -1,3 +1,6 @@
+// Student Name: Ishratben Vahora
+// StudentID: 300986257
+// Date: 2019-03-30
 import { Component, OnInit } from '@angular/core';
 import { FlashMessagesService } from 'angular2-flash-messages';
 import { AuthService } from 'src/app/services/auth.service';

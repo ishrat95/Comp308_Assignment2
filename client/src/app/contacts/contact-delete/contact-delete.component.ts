@@ -1,3 +1,7 @@
+// Student Name: Ishratben Vahora
+// StudentID: 300986257
+// Date: 2019-03-30
+
 import { Component, OnInit } from '@angular/core';
 import { ContactListService } from 'src/app/services/contact-list.service';
 import { FlashMessagesService } from 'angular2-flash-messages';

@@ -1,3 +1,6 @@
+// Student Name: Ishratben Vahora
+// StudentID: 300986257
+// Date: 2019-03-30
 import { Injectable } from '@angular/core';
 import { CanActivate, ActivatedRouteSnapshot, Router } from '@angular/router';
 

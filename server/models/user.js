@@ -1,3 +1,6 @@
+// Student Name: Ishratben Vahora
+// StudentID: 300986257
+// Date: 2019-03-30
 // require modules for our User Model
 let mongoose = require("mongoose");
 let passportLocalMongoose = require("passport-local-mongoose");
