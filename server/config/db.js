@@ -1,5 +1,5 @@
 module.exports = {
     "URI" : "mongodb://localhost/ContactList",
-    //"URI" : "mongodb://thomas:a123456@ds060977.mlab.com:60977/comp308-w2019-lesson10b",
+    "URI" : "mongodb://ishrat:ishrat123@ds060977.mlab.com:60977/comp308-assignment2",
     "secret": "SomeSecret"
 }
